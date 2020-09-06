@@ -50,6 +50,7 @@
 **Установка ОС Linux/MacOS**
 
 Linux: воспользуйтесь [официальной документацией](https://www.virtualbox.org/manual/ch02.html#install-linux-host)
+
 MacOS: воспользуйтесь [официальной документацией](https://www.virtualbox.org/manual/ch02.html#installation-mac)
 
 **Загрузить ISO образ Linux**
