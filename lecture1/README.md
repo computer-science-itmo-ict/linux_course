@@ -1,3 +1,3 @@
 Лекция 1.
 
-[![Watch the video](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ITMO_University.png/1200px-ITMO_University.png](https://youtu.be/NrUtQdrtt6Q)
+[![Watch the video](https://d.radikal.ru/d08/2009/5d/883a2f27b9fa.png](https://youtu.be/NrUtQdrtt6Q)
