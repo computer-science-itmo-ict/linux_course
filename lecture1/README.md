@@ -1,3 +1,3 @@
-Лекция 1.
+Лекция 1. Intro. Motivation. Terminology.
 
-[![Watch the video](https://d.radikal.ru/d08/2009/5d/883a2f27b9fa.png](https://youtu.be/NrUtQdrtt6Q)
+https://youtu.be/NrUtQdrtt6Q 
