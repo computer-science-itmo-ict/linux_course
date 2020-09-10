@@ -9,7 +9,7 @@
 
 В папке *Preparation* можно найти информацию об установке Ubuntu на виртуальную машину.
 
-***Видеолекции для самостоятельной работы*
+***Видеолекции для самостоятельной работы**
 
 1.	Введение в Linux// https://stepik.org/course/58873/promo
 2.	Introduction to Linux // https://www.edx.org/course/introduction-to-linux
