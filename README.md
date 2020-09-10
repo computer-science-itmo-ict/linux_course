@@ -11,8 +11,7 @@
 
 **Видеолекции для самостоятельной работы**
 
-1.	Введение в Linux// https://stepik.org/course/58873/promo
+1.	Основы в Linux// https://stepik.org/course/73/promo
 2.	Introduction to Linux // https://www.edx.org/course/introduction-to-linux
-3.	Основы компьютерных сетей //  — https://stepik.org/course/58873/promo
-4.  Основы Linux // https://stepik.org/course/73/promo
+3.	Основы компьютерных сетей //  —https://stepik.org/course/58873/promo
 
