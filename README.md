@@ -8,3 +8,11 @@
 В папке *lecture1* будут публиковаться видеолекции и презентации.
 
 В папке *Preparation* можно найти информацию об установке Ubuntu на виртуальную машину.
+
+***Видеолекции для самостоятельной работы*
+
+1.	Введение в Linux// https://stepik.org/course/58873/promo
+2.	Introduction to Linux // https://www.edx.org/course/introduction-to-linux
+3.	Основы компьютерных сетей //  — https://stepik.org/course/58873/promo
+4.  Основы Linux // https://stepik.org/course/73/promo
+
